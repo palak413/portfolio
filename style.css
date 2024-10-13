@@ -291,3 +291,14 @@ body {
   justify-content: center;
   padding-top: 30%;
 }
+
+.loginimg{
+  height: 640px;
+  width: 640px;
+}
+.image{
+  background-image: url(IMGG.PNG);
+  background-size: cover;
+  height: 640px;
+  width: 640px;
+}
